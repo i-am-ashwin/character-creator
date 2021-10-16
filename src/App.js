@@ -8,6 +8,7 @@ function App() {
     <>
       <CharacterEditor />
       <Footer />
+      <div className="bg-effect" ></div>
     </>
   );
 }
